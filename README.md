@@ -1,0 +1,1 @@
+This repository contains various image processing techniques implemented in Python. It is designed for developers, researchers, and enthusiasts who want to explore how Python can be used to manipulate and analyze images efficiently.
